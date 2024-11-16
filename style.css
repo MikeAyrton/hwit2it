@@ -1,0 +1,41 @@
+h1{
+    color: darkcyan;
+}
+b{
+    color: rgb(0, 174, 255);
+}
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+
+}
+ul li{
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    color: yellow;
+}
+img{
+    width: 250px;
+    height: 250px;
+}
+
+.MOOD {
+    display: flex;
+    gap: 25px;
+
+}
+
+.happy{
+    display: flex;
+}
+.happy h3{
+    margin-top: 220px;
+}
+.sad{
+    display: flex;
+}
+
+.sad h3{
+    margin-top: 220px;
+}
